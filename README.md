@@ -1,7 +1,7 @@
 # my-new-project
 # Smart Study Planner
 
-## Summary
+##Summary
 
 Smart Study Planner is an AI-assisted tool that helps students plan their study time more efficiently. It suggests study schedules based on available time, subjects, and upcoming deadlines to reduce stress and improve learning outcomes.
 
