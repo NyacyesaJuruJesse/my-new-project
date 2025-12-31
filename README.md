@@ -1,11 +1,11 @@
 # my-new-project
 # Smart Study Planner
 
-Summary
+## Summary
 
 Smart Study Planner is an AI-assisted tool that helps students plan their study time more efficiently. It suggests study schedules based on available time, subjects, and upcoming deadlines to reduce stress and improve learning outcomes.
 
-Background
+## Background
 
 Many students struggle with time management, especially when they have multiple subjects, homework, and exams at the same time. Poor planning can lead to stress, last-minute cramming, and lower performance.
 
@@ -21,7 +21,7 @@ burnout due to overworking
 
 My motivation comes from personal experience as a student who often finds it hard to plan study time effectively. This topic is important because better planning can improve both learning results and well-being.
 
-How is it used?
+## How is it used?
 
 The user enters:
 
@@ -50,7 +50,7 @@ main()
 
 ```
 
-Data sources and AI methods
+## Data sources and AI methods
 
 The project could use:
 
@@ -66,7 +66,7 @@ basic machine learning to learn from past study habits
 
 No personal data would be shared with third parties.
 
-Challenges
+## Challenges
 
 This project does not:
 
@@ -84,7 +84,7 @@ avoiding pressure or unhealthy study expectations
 
 making sure recommendations are supportive, not stressful
 
-What next?
+## What next?
 
 Future improvements could include:
 
@@ -102,7 +102,7 @@ knowledge of machine learning
 
 user feedback from real students
 
-Acknowledgments
+## Acknowledgments
 
 Inspired by personal study experiences
 
